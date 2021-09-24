@@ -1,0 +1,23 @@
+{
+   "Royal Challengers Bangalore":{
+      "Problem_Statement":[
+         "Number of matches played",
+         "Most Played Venue",
+         "Number of Toss win and loose"
+      ]
+   },
+   "ABS":{
+      "Problem_Statement":[
+         "Number of matches played",
+         "Player with most player_of_match award",
+         "Number of Toss win and loose"
+      ]
+   },
+    "Kolkata Knight Riders":{
+      "Problem_Statement":[
+         "Number of matches played",
+         "Player with most player_of_match award",
+         "Number of players"
+      ]
+   }
+}
